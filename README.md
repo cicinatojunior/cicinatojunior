@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cicinatojunior
-- 👀 I’m interested in programação 
+- 👀 I’m interested em programação 
 - 🌱 I’m currently learning analise e desenvolvimento de sistemas 
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me e-mail : cicinatojunior@gmail.com
